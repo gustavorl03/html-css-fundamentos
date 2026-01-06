@@ -33,7 +33,6 @@ práticas de organização, semântica, responsividade e versionamento com Git.
 ## 🧩 Organização do repositório
 - `/html` → estudos de HTML organizados por assunto
 - `/css` → conceitos fundamentais de CSS
-- `/exemplos` → layouts práticos aplicando os conceitos
 - `/desafios` → exercícios para fixação do conteúdo
 
 ---
